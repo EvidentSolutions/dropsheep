@@ -1,0 +1,15 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Dropsheep" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+    <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+    <option name="SPRING_BOOT_MAIN_CLASS" value="fi.evident.dropsheep.DropsheepApplication" />
+    <option name="HIDE_BANNER" value="true" />
+    <option name="SHOW_IN_DASHBOARD" value="true" />
+    <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+    <option name="ALTERNATIVE_JRE_PATH" />
+    <module name="webdrop_main" />
+    <envs />
+    <method>
+      <option name="Make" enabled="false" />
+    </method>
+  </configuration>
+</component>

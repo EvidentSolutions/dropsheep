@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="war" external-system-id="GRADLE" name="Gradle : dropsheep.war">
+    <output-path>$PROJECT_DIR$/build/libs</output-path>
+    <properties id="gradle-properties">
+      <options external-project-path="$PROJECT_DIR$" />
+    </properties>
+    <root id="archive" name="dropsheep.war">
+      <element id="artifact" artifact-name="Gradle : dropsheep.war (exploded)" />
+    </root>
+  </artifact>
+</component>
